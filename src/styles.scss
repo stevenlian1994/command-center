@@ -1,5 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+
+$app-purple: #c671ba;
+$app-pink: #f6c4df;
+$app-light-blue: #9bcfea;
+$app-medium-blue: #2b7cb3;
+$app-dark-blue: #154167;
 *{
     text-align: center;
-    border-style: dotted;
+    background-color: $app-light-blue;
+    color:$app-dark-blue;
 }
